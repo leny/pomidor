@@ -1,0 +1,9 @@
+{
+  "name": "@leny/pomidor",
+  "version": "0.0.1",
+  "description": "A small pomodoro with React - 2021 edition",
+  "main": "index.js",
+  "scripts": {},
+  "author": "leny <leny@becode.org>",
+  "license": "ISC"
+}
