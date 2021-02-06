@@ -9,13 +9,14 @@
 import PropTypes from "prop-types";
 import classnames from "classnames";
 
-const Button = ({label, title, disabled = false, onClick}) => (
+const Button = ({label, title, disabled = false, onClick, ...props}) => (
     <button
         className={classnames("button", "is-link", "is-medium", "is-fullwidth")}
         type={"button"}
         title={title || label}
         disabled={disabled}
-        onClick={onClick}>
+        onClick={onClick}
+        {...props}>
         {label}
     </button>
 );
