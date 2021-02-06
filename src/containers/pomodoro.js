@@ -7,17 +7,17 @@
  */
 
 import classnames from "classnames";
-import Hello from "../components/hello";
+import Display from "../components/display";
 
 const Pomodoro = () => {
-    const name = "Pomidor";
+    const seconds = 1500;
 
     // TODO: add logic!
 
     return (
         <div className={classnames("columns", "is-mobile", "is-centered")}>
             <div className={classnames("column", "is-half")}>
-                <Hello name={name} />
+                <Display seconds={seconds} />
             </div>
         </div>
     );

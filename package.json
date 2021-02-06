@@ -22,7 +22,8 @@
     "husky": "^4.3.8",
     "lint-staged": "^10.5.4",
     "parcel-bundler": "^1.12.4",
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "sass": "^1.32.6"
   },
   "lint-staged": {
     "*.json": [
