@@ -7,8 +7,8 @@
  */
 
 import ReactDOM from "react-dom";
-import Hello from "./components/hello";
+import Pomodoro from "./containers/pomodoro";
 
 import "bulma";
 
-ReactDOM.render(<Hello name={"Pomidor"} />, document.querySelector("#app"));
+ReactDOM.render(<Pomodoro />, document.querySelector("#app"));
