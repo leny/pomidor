@@ -6,17 +6,19 @@
  * started at 06/02/2021
  */
 
+import {useState} from "react";
+
 import classnames from "classnames";
 import Display from "../components/display";
 import Tools from "../components/tools";
 
 const Pomodoro = () => {
     const seconds = 1500;
-    const running = false;
+    const [running, setRunning] = useState(false);
 
     const handleMinus = () => console.log("minus!");
     const handleReset = () => console.log("reset!");
-    const handlePlayPause = () => console.log("play/pause!");
+    const handlePlayPause = () => setRunning(!running);
     const handlePlus = () => console.log("plus!");
 
     return (
