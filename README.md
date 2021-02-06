@@ -7,7 +7,7 @@
 ## About
 
 A small pomodoro with React, Bulma & Parcel.
-Hosted on [netlify](#TODO).
+Hosted on [netlify](https://epic-franklin-fb6b5a.netlify.app/).
 
 > 👉 *pomidor* is 🇺🇿 Uzbek word for "tomato" 😉
 
@@ -16,10 +16,10 @@ Hosted on [netlify](#TODO).
 Timanti is a [BeCode](https://becode.org) project given to our learners.
 This repository is the correction reference, which was also recorded and available in videos hosted on YouTube:
 
-1. [env & tooling](#TODO)
-1. [display components](#TODO)
-1. [timer logic](#TODO)
-1. [modal & deploy](#TODO)
+1. [env & tooling](https://www.youtube.com/watch?v=hWrcHS-NChs)
+1. [display components](https://www.youtube.com/watch?v=n-uV3nfuEnI)
+1. [timer logic](https://www.youtube.com/watch?v=LI_aMpqZeMw)
+1. [modal & deploy](https://www.youtube.com/watch?v=bMdA7npcZwk)
 
 ## Installation
 
