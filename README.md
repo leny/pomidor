@@ -13,7 +13,7 @@ Hosted on [netlify](https://epic-franklin-fb6b5a.netlify.app/).
 
 ### Making of pomidor
 
-Timanti is a [BeCode](https://becode.org) project given to our learners.
+Pomidor is a [BeCode](https://becode.org) project given to our learners.
 This repository is the correction reference, which was also recorded and available in videos hosted on YouTube:
 
 1. [env & tooling](https://www.youtube.com/watch?v=hWrcHS-NChs)
